@@ -1,8 +1,8 @@
-.横並びA {
+.axlsA {
 	display: flex;
 	gap: 20px;
 	justify-content: center;
-	& .列 {
+	& .retu {
 		background-color: orange;
 		width: 80px;
 	}
